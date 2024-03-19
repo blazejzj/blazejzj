@@ -63,8 +63,9 @@
     <img src="https://github.com/blazejzj/blazejzj/assets/142219617/01a2d1aa-2a5c-4a58-9af4-a97ae16731ef" width="45" height="45"/> &nbsp;
   </p>
 
+
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiblazejzjanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejzj)](https://github.com/blazejzj/github-readme-stats)
 
 </div>
