@@ -7,7 +7,6 @@
 # <p align="center"><b>Contact? Feel free!</b></p>
 
 <br>
-<br>
 
 <p align="center" style="font-size:5;">
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/a2a36596-7ce5-4ede-8cb5-62cae30602e3" height="60" width="60"/></a> &nbsp; &nbsp;
@@ -16,7 +15,6 @@
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/b4c17b3d-6dce-41a1-af62-4d3b270d5539" height="60" width="60"/></a>
 </p>
 
-<br>
 
 ---
 
