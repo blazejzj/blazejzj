@@ -42,3 +42,14 @@
   <img src="https://github.com/blazejzj/blazejzj/assets/142219617/4099a733-49e0-4359-8b55-1bbd8c0bd5d1" height="450" width="450"/>
 </p>
 
+---
+
+<br>
+
+# <p align="center"><b>What have I learned, yet still need to understand?</b></p>
+
+<div align="center">
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  </p>
+</div>
