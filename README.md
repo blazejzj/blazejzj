@@ -18,8 +18,7 @@
 </p>
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="462" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2"></a></p>
-  <iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG"></a></p>
-  <iframe src="https://giphy.com/embed/11ZSwQNWba4YF2" width="247" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2"></a></p>
-  
+  <a href="#"><img src="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2"/></a> &nbsp; &nbsp;
+  <a href="#"><img src="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG"/></a> &nbsp; &nbsp;
+  <a href="#"><img src="https://giphy.com/gifs/css-13FrpeVH09Zrb2"/></a> &nbsp; &nbsp;
 </div>
