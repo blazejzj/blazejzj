@@ -1,10 +1,9 @@
 <br>
-<br>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Look%20who's%20here!&textBg=false&animation=blink&desc=You're%20not%20lost%20are%20you?&descSize=-14"/>
 </p>
 
-<br>
 <br>
 <br>
 
@@ -42,3 +41,4 @@
   <img src="https://github.com/blazejzj/blazejzj/assets/142219617/e2286566-c10e-4028-b1cb-7d607d9d04df" height="450" width="450"/> &nbsp; &nbsp;
   <img src="https://github.com/blazejzj/blazejzj/assets/142219617/4099a733-49e0-4359-8b55-1bbd8c0bd5d1" height="450" width="450"/>
 </p>
+
