@@ -48,6 +48,9 @@
 
 # <p align="center"><b>What have I learned, yet still need to understand?</b></p>
 
+<br>
+<br>
+
 <div align="center">
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/> &nbsp;
