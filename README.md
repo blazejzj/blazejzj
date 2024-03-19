@@ -33,7 +33,7 @@
 
 <br>
 
-### <p align="center"><b>In the world of programming, the real skill is not in solving problems, but in finding them in the first place.</b></p>
+### <p align="center"><b>In the world of programming, the real skill is not in solving problems, but finding them in the first place.</b></p>
 
 <br>
 
