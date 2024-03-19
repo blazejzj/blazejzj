@@ -44,7 +44,7 @@
 
 <br>
 
-## <p align="center"><b>What have I learned, yet still need to understand?</b></p>
+## <p align="center"><b>What have I learned, yet still trying to understand?</b></p>
 
 <div align="center">
   <p>
