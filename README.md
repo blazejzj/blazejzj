@@ -8,7 +8,7 @@
 <br>
 <br>
 
-# <p align="center"><b>Contact? Feel free! ... I warned you</b></p>
+# <p align="center"><b>Contact? Feel free!</b></p>
 
 <br>
 <br>
