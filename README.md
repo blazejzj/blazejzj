@@ -10,7 +10,7 @@
 
 <p align="center"><b>Contact? Feel free!</b></p>
 
-<p align="center" font-size="300">
+<p align="center" style="font-size:200;">
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/a2a36596-7ce5-4ede-8cb5-62cae30602e3" height="60" width="60"/></a> &nbsp; &nbsp;
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/86d0cc72-1d2a-4c52-b908-19115dde8fa1" height="60" width="60"/></a> &nbsp; &nbsp;
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/c6ea4fdd-ced3-42f0-ab47-f635dcebff3c" height="60" width="60"/></a> &nbsp; &nbsp;
