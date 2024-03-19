@@ -67,4 +67,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj)](https://github.com/blazejzj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
