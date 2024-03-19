@@ -67,4 +67,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=6&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejzj&theme=cobalt)](https://github.com/blazejzj/github-readme-stats)
 <br>
-![Snake animation](https://github.com/blazejzj/blazejzj/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
