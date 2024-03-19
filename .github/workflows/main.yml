@@ -1,15 +1,17 @@
 name: generate animation
 
 on:
+  # run automatically every 24 hours
   schedule:
-    - cron: "0 */12 * * *" 
+    - cron: "0 */24 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
-
+  
+  # run on every push on the master branch
   push:
     branches:
-    - main
+    - master
     
   
 
@@ -29,7 +31,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64alf4,#4b91f1,#3c7dd9
           
           
       # push the content of <build_dir> to a branch
