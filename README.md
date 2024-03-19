@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <p>Contact? Feel free!</p>
+  ##<p>Contact? Feel free!</p>
   <a href="#">
     <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/a2a36596-7ce5-4ede-8cb5-62cae30602e3"/>
   </a>
