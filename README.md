@@ -17,6 +17,13 @@
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/b4c17b3d-6dce-41a1-af62-4d3b270d5539" height="60" width="60"/></a>
 </p>
 
+<br>
+<br>
+<br>
+
+# <p align="center"><b>Programming is like writing a book... except if you miss out a single comma on page 126, the whole thing makes no sense.</b></p>
+
+<br>
 <p align="center">
   <img src="https://github.com/blazejzj/blazejzj/assets/142219617/e2286566-c10e-4028-b1cb-7d607d9d04df" height="250" width="350"/>
   <img src="https://github.com/blazejzj/blazejzj/assets/142219617/b10da9c5-7a5e-4f8e-8d06-a7266755102a" height="250" width="250"/>
