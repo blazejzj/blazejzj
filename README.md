@@ -2,7 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Look%20who's%20here!&textBg=false&animation=blink&desc=You're%20not%20lost%20are%20you?&descSize=-14"/>
 </p>
 
-<p># Contact? Feel free!</p>
+
+<br>
+
+
+#**Contact? Feel free!**
+
 <div align="center">
   <a href="#">
     <img class="img-spacing" height="60" width="60"  src="https://github.com/blazejzj/blazejzj/assets/142219617/a2a36596-7ce5-4ede-8cb5-62cae30602e3"/>
