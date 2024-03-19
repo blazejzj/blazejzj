@@ -4,9 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Look%20who's%20here!&textBg=false&animation=blink&desc=You're%20not%20lost%20are%20you?&descSize=-14"/>
 </p>
 
-<br>
-<br>
-
 # <p align="center"><b>Contact? Feel free!</b></p>
 
 <br>
