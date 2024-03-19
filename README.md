@@ -67,13 +67,9 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<div align="center">
-  <p>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejzj&theme=cobalt)](https://github.com/blazejzj/github-readme-stats)
 
 
 
