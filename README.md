@@ -16,3 +16,10 @@
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/c6ea4fdd-ced3-42f0-ab47-f635dcebff3c" height="60" width="60"/></a> &nbsp; &nbsp;
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/b4c17b3d-6dce-41a1-af62-4d3b270d5539" height="60" width="60"/></a>
 </p>
+
+<div align="center">
+  <iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="462" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2"></a></p>
+  <iframe src="https://giphy.com/embed/Dh5q0sShxgp13DwrvG" width="480" height="296" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG"></a></p>
+  <iframe src="https://giphy.com/embed/11ZSwQNWba4YF2" width="247" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2"></a></p>
+  
+</div>
