@@ -1,10 +1,10 @@
-### Hi there 👋
+(https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Look%20who's%20here!&textBg=false&animation=blink&desc=You're%20not%20lost%20are%20you?&descSize=-14)
+
 
 <!--
 **blazejzj/blazejzj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Look%20who's%20here!&textBg=false&animation=blink&desc=You're%20not%20lost%20are%20you?&descSize=-14
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
