@@ -5,15 +5,15 @@
 <div align="center">
   <p>Contact? Feel free!</p>
   <a href="#">
-    <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/25bba46b-1348-4e0a-ad4e-6d702f0354e0" style="margin-right: 20px;"/>
+    <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/a2a36596-7ce5-4ede-8cb5-62cae30602e3"/>
   </a>
   <a href="#">
-    <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/0274651e-03e9-4c29-8fec-8c1586d990ff" style="margin-right: 20px;"/>
+    <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/86d0cc72-1d2a-4c52-b908-19115dde8fa1"/>
   </a>
   <a href="#">
-    <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/688c5d1a-9095-49b7-acb7-fe308ebdb579" style="margin-right: 20px;"/>
+    <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/c6ea4fdd-ced3-42f0-ab47-f635dcebff3c"/>
   </a>
   <a href="#">
-    <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/e1d9fee8-7502-4dca-9ce4-583954650d92"/>
+    <img height="50" src="https://github.com/blazejzj/blazejzj/assets/142219617/b4c17b3d-6dce-41a1-af62-4d3b270d5539"/>
   </a>
 </div>
