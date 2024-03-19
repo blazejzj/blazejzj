@@ -18,7 +18,7 @@
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2"/></a> &nbsp; &nbsp;
-  <a href="#"><img src="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG"/></a> &nbsp; &nbsp;
-  <a href="#"><img src="https://giphy.com/gifs/css-13FrpeVH09Zrb2"/></a> &nbsp; &nbsp;
+  <img src="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2"/>
+  <img src="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG"/>
+  <img src="https://giphy.com/gifs/css-13FrpeVH09Zrb2"/>
 </div>
