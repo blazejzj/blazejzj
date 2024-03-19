@@ -6,7 +6,7 @@
 <br>
 
 
-#**Contact? Feel free!**
+**#Contact? Feel free!**
 
 <div align="center">
   <a href="#">
