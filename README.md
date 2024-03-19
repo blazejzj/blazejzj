@@ -1,7 +1,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Look%20who's%20here!&textBg=false&animation=blink&desc=You're%20not%20lost%20are%20you?&descSize=-14"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=400&color=gradient&text=Look%20who's%20here!&textBg=false&animation=blink&desc=You're%20not%20lost%20are%20you?&descSize=-14"/>
 </p>
 
 <br>
