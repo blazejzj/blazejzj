@@ -62,6 +62,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" height="45"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="45" height="45"/> &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/> &nbsp;
+    <img src="https://github.com/blazejzj/blazejzj/assets/142219617/01a2d1aa-2a5c-4a58-9af4-a97ae16731ef" width="45" height="45"/> &nbsp;
     
   </p>
+
 </div>
