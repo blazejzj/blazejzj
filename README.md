@@ -17,8 +17,8 @@
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/b4c17b3d-6dce-41a1-af62-4d3b270d5539" height="60" width="60"/></a>
 </p>
 
-<div align="center">
-  <img src="https://giphy.com/gifs/loop-work-programmer-11ZSwQNWba4YF2"/>
-  <img src="https://giphy.com/gifs/scaler-official-dogs-computer-typing-Dh5q0sShxgp13DwrvG"/>
-  <img src="https://giphy.com/gifs/css-13FrpeVH09Zrb2"/>
-</div>
+<p align="center">
+  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/e2286566-c10e-4028-b1cb-7d607d9d04df" height="100" width="100"/>
+  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/b10da9c5-7a5e-4f8e-8d06-a7266755102a" height="100" width="100"/>
+  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/1b8e78c0-6107-46b2-ad4a-e3ba76bfd532" height="100" width="100"/>
+</p>
