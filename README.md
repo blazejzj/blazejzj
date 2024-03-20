@@ -15,6 +15,7 @@
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/c6ea4fdd-ced3-42f0-ab47-f635dcebff3c" height="60" width="60"/></a> &nbsp; &nbsp;
   <a href=mailto:"blazejzj@hiof.no"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/b4c17b3d-6dce-41a1-af62-4d3b270d5539" height="60" width="60"/></a>
 </p>
+
 ---
 
 <br>
