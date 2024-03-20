@@ -1,8 +1,4 @@
-<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=280&color=gradient&text=Look%20Who's%20Here!&fontColor=ffffff&fontSize=90&animation=blink&theme=cobalt&desc=You're%20not%20lost,%20are%20you?&reversal=false"/>
-</p>
 
 # <p align="center"><b>Contact? Feel free!</b></p>
 
@@ -64,7 +60,7 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=4&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=6&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejzj&theme=cobalt)](https://github.com/blazejzj/github-readme-stats)
 <br>
 
