@@ -4,11 +4,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=280&color=gradient&text=Look%20Who's%20Here!&fontColor=ffffff&fontSize=90&animation=blink&theme=cobalt&desc=You're%20not%20lost,%20are%20you?&reversal=false"/>
 </p>
-
+--->
 # <p align="center"><b>Contact? Feel free!</b></p>
 
 <br>
---->
+
 <p align="center" style="font-size:5;">
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/a2a36596-7ce5-4ede-8cb5-62cae30602e3" height="60" width="60"/></a> &nbsp; &nbsp;
   <a href="#"><img src="https://github.com/blazejzj/blazejzj/assets/142219617/86d0cc72-1d2a-4c52-b908-19115dde8fa1" height="60" width="60"/></a> &nbsp; &nbsp;
