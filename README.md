@@ -36,8 +36,7 @@
 <br>
 
 <p align="center">
-  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/e2286566-c10e-4028-b1cb-7d607d9d04df" height="500" width="500"/> &nbsp; &nbsp;
-  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/4099a733-49e0-4359-8b55-1bbd8c0bd5d1" height="500" width="500"/>
+  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/e2286566-c10e-4028-b1cb-7d607d9d04df" height="500" width="500"/>
 </p>
 
 ---
