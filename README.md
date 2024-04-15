@@ -17,17 +17,18 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/e2286566-c10e-4028-b1cb-7d607d9d04df" height="500" width="500"/>
-</p>
-
 <br>
 
 ### <p align="center"><b>Programming is like writing a book... except if you miss out a single comma on page 126, the whole thing makes no sense.</b></p>
 
 <br>
 <br>
+
+<p align="center">
+  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/e2286566-c10e-4028-b1cb-7d607d9d04df" height="500" width="500"/>
+</p>
+
+
 
 <!---
 ### <p align="center"><b>In the world of programming, the real skill is not in solving problems, but finding them in the first place.</p>
