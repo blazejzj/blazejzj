@@ -29,8 +29,10 @@
 <br>
 <br>
 
+<!---
 ### <p align="center"><b>In the world of programming, the real skill is not in solving problems, but finding them in the first place.</p>
 <br>
+--->
 
 ## <p align="center"><b>What have I learned, yet still try to understand?</b></p>
 
