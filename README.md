@@ -36,9 +36,8 @@
 ### <p align="center"><b>In the world of programming, the real skill is not in solving problems, but finding them in the first place.</p>
 
 --->
-<!---
-## <p align="center"><b>What have I learned, yet still try to understand?</b></p>
---->
+
+## <p align="center"><b>sortof understand and know how to use them</b></p>
 <br>
 <div align="center">
   <p>
