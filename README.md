@@ -34,11 +34,12 @@
 
 <!---
 ### <p align="center"><b>In the world of programming, the real skill is not in solving problems, but finding them in the first place.</p>
-<br>
+
 --->
 <!---
 ## <p align="center"><b>What have I learned, yet still try to understand?</b></p>
 --->
+<br>
 <div align="center">
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/> &nbsp;
