@@ -5,7 +5,7 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&height=280&color=gradient&text=Look%20Who's%20Here!&fontColor=ffffff&fontSize=90&animation=blink&theme=cobalt&desc=You're%20not%20lost,%20are%20you?&reversal=false"/>
 </p>
 --->
-# <p align="center"><b>Contact? Feel free!</b></p>
+# <p align="center"><b>Contact? Sure!</b></p>
 
 <br>
 
