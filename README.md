@@ -40,7 +40,7 @@
 
 <br>
 <div align="center">
-  ## <p align="center"><b>sortof understand and know how to use them</b></p>
+  <p align="center"><b>sortof understand and know how to use them</b></p>
   <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/> &nbsp;
