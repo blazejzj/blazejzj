@@ -1,3 +1,5 @@
+# <p align="center"><b>Hi!</b></p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejzj&theme=cobalt)](https://github.com/blazejzj/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=6&theme=cobalt&hide=less,css)](https://github.com/anuraghazra/github-readme-stats)
 <br>
@@ -10,7 +12,7 @@
 
 ---
 
-### <p align="center"><b>Technologies & Tools</b></p>
+# <p align="center"><b>Technologies & Tools</b></p>
 
 <div align="center">
 	<code><img width="60" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
