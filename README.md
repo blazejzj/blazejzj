@@ -11,19 +11,6 @@
 ---
 
 ### <p align="center"><b>Technologies & Tools</b></p>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejzj&theme=cobalt)](https://github.com/blazejzj/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=6&theme=cobalt&hide=less,css)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-### <p align="center"><b>Technologies & Tools</b></p>
 
 <div align="center">
 	<code><img width="60" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
@@ -40,17 +27,6 @@
 	<code><img width="60" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="60" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ"/></code>
 </div>
-
----
-
-
-### <p align="center"><b>Programming is like writing a book... except if you miss out a single comma on line 126, the whole thing makes no sense.</b></p>
-
-
-<p align="center">
-  <img src="https://github.com/blazejzj/blazejzj/assets/142219617/e2286566-c10e-4028-b1cb-7d607d9d04df" height="500" width="500"/>
-</p>
-
 
 ---
 
