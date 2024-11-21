@@ -1,17 +1,5 @@
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejzj&theme=cobalt)](https://github.com/blazejzj/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=6&theme=cobalt&hide=less,css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 # <p align="center"><b>Technologies & Tools</b></p>
 
 <div align="center">
@@ -36,6 +24,19 @@
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 </div>
+
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blazejzj&theme=cobalt)](https://github.com/blazejzj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blazejzj&layout=donut&langs_count=6&theme=cobalt&hide=less,css,scss,html)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 ---
 
